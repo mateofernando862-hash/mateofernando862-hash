@@ -1,6 +1,8 @@
 # 💫About Me :
 🗣️HI!!, I'm Mateo from Colombia.
+
 🧑‍🎓4to semester System Engineering student at Universidad de la costa.
+
 🛹I love teh Skateboarding, Dylan Rieder for ever. 
 
 # 💻Tech Stack
